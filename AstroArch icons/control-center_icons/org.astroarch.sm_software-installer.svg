@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 241 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:20;">
+    <g transform="matrix(1,0,0,1,-573,-1685)">
+        <g transform="matrix(1,0,0,1,0,-381.943108)">
+            <g id="org.astroarch.sm_software-installer" transform="matrix(1,0,0,1,693.833557,2186.975853)">
+                <g transform="matrix(1,0,0,1,-120,-120)">
+                    <clipPath id="_clip1">
+                        <rect x="0" y="0" width="240" height="240"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g id="arch" transform="matrix(0.43146,0,0,0.43146,24.65,24)">
+                            <path d="M163.437,143.669L166.199,137.769C184.108,99.517 193.807,73.691 209.899,34.266L221.607,5.583L233.745,34.086C266.897,111.929 274.756,135.851 371.471,315.929L389.672,349.817C397.545,364.398 405.827,379.685 414.866,396.32L436.753,436.596L397.056,413.676C342.244,382.029 279.816,349.475 221.851,349.475C170.695,349.475 102.24,381.584 46.642,413.676L6.169,437.038L28.896,396.205C101.96,264.928 138.022,196.69 161.008,148.736L163.437,143.669Z" style="fill:white;"/>
+                            <g transform="matrix(1.845531,0,0,1.845528,-104.206754,35.840572)">
+                                <path d="M176.679,1.792C194.709,44.128 198.979,57.14 251.579,155.078C244.929,151.078 236.369,147.518 224.459,144.418C241.799,153.318 250.279,161.538 258.429,167.858C263.599,177.448 269.039,187.498 275.109,198.668C244.349,180.908 209.204,162.943 176.674,162.943C147.966,162.943 109.439,180.658 78.238,198.668C117.939,127.336 137.529,90.255 150.019,64.198C156.559,69.695 165.289,74.954 178.109,80.23C166.189,71.889 158.849,64.54 152.859,58.198C162.619,37.351 167.909,23.278 176.679,1.792Z" style="fill:rgb(23,147,209);fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                        <g id="function" transform="matrix(0.56,0,0,0.56,50,66)">
+                            <path d="M125,66L210,104L210,196L125,234L40,196L40,104L125,66Z" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:24px;"/>
+                            <path d="M125,66L210,104L210,196L125,234L40,196L40,104L125,66Z" style="fill:rgb(8,51,70);fill-rule:nonzero;"/>
+                            <path d="M132,146.538L132,234L118,234L118,146.538L37.143,110.39L42.857,97.61L125,134.332L207.143,97.61L212.857,110.39L132,146.538Z" style="fill:white;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
